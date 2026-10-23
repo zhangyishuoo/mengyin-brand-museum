@@ -1,0 +1,7 @@
+# 非网站文件（参赛包文档，不上传）
+*.pdf
+*.pptx
+*.txt
+在线体验-扫码看作品.png
+.edgeone/
+.DS_Store
